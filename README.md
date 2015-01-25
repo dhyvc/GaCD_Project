@@ -29,3 +29,7 @@ The TidyDataSet.txt file may be read into a data frame variable using the follow
 The data set may then be viewed by using the following command:  
   View(someDataFrameVariable)
 
+##Why is this data set tidy?
+The resulting data set from the execution of the script includes a single column for each measurement, a single row for each observation (subject-activity pair) and is provided as a single table as it deals with a single type of variable - average. The variable names were provided at the top row of the table.  
+Variable names have been modified slightly in order to make them clearer to the reader. Some abbreviations were kept in place in order to keep variable name length from running too long.
+
