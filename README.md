@@ -25,7 +25,7 @@ In order to use the abovementioned files, the user is expected to have:
 
 ##File usage
 The TidyDataSet.txt file may be read into a data frame variable using the following command:  
-  someDataFrameVariable<-read.table("TidyDataSet.txt",header=T)
+  someDataFrameVariable<-read.table("TidyDataSet.txt",header=T)  
 The data set may then be viewed by using the following command:  
   View(someDataFrameVariable)
 
