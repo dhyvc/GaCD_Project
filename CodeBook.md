@@ -4,28 +4,36 @@ This document describes the various variables, the data, and any transformations
 ##Original data source
 The original data for the project were downloaded from:
 
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
+
+Please refer to the README.txt, features_info,txt, features.txt files for information on the various measurements and parameters of the original data set.
 
 ##Variables
 The following paragraphs provide information regarding the variables used in the data set. Please note that the elements in the data set have no units since the measurements have been normalized.  
 1. **Average_timeBodyAcc_mean_X, Average_timeBodyAcc_mean_Y, Average_timeBodyAcc_mean_Z**  
-
+These variables provide the average body mean acceleration in each of the X, Y, Z axes.
 
 2. **Average_timeBodyAcc_std_X, Average_timeBodyAcc_std_Y, Average_timeBodyAcc_std_Z**  
+These variables provide the average body standard deviation of the acceleration in each of the X, Y, Z axes.
 
 
 3. **Average_timeGravityAcc_mean_X, Average_timeGravityAcc_mean_Y, Average_timeGravityAcc_mean_Z**  
+These variables provide the average mean gravitational acceleration in each of the X, Y, Z axes.
 
 
-4 
+4. **Average_timeGravityAcc_std_X, Average_timeGravityAcc_std_Y, Average_timeGravityAcc_std_Z**  
+These variables provide the average standard deviation of the gravitational acceleration in each of the X, Y, Z axes.
+
+
+
 5 
 6 
 7 
 8 
 9 
-10 Average_timeGravityAcc_std_X
-11 Average_timeGravityAcc_std_Y
-12 Average_timeGravityAcc_std_Z
+10 
+11 
+12 
 13 Average_timeBodyAccJerk_mean_X
 14 Average_timeBodyAccJerk_mean_Y
 15 Average_timeBodyAccJerk_mean_Z
