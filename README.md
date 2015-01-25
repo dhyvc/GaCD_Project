@@ -5,7 +5,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The data for the project was downloaded from:
+The original data for the project were downloaded from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
@@ -23,8 +23,9 @@ In order to use the abovementioned files, the user is expected to have:
 3. Installed the dplyr package into his/her R environment.  
 4. Downloaded the TidyDataSet.txt data set to the same directory in which the script resides *or* run the run_analysis.R script.  
 
-#File usage
+##File usage
 The TidyDataSet.txt file may be read into a data frame variable using the following command:  
   someDataFrameVariable<-read.table("TidyDataSet.txt",header=T)
-
+The data set may then be viewed by using the following command:  
+  View(someDataFrameVariable)
 
