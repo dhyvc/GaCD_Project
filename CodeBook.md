@@ -13,7 +13,8 @@ The variables selected for the tidy data set were picked so that the variables w
 
 ##Variables
 The following paragraphs provide information regarding the variables used in the data set. *Please note that the elements in the data set have no units since the measurements have been normalized*.  
-1. **Average_timeBodyAcc_mean_X, Average_timeBodyAcc_mean_Y, Average_timeBodyAcc_mean_Z**  
+
+**Average_timeBodyAcc_mean_X, Average_timeBodyAcc_mean_Y, Average_timeBodyAcc_mean_Z**  
 These variables provide the average mean body acceleration in each of the X, Y, Z axes.  
 
 
@@ -21,23 +22,23 @@ These variables provide the average mean body acceleration in each of the X, Y, 
 These variables provide the average standard deviation of the body acceleration in each of the X, Y, Z axes.  
 
 
-3. **Average_timeGravityAcc_mean_X, Average_timeGravityAcc_mean_Y, Average_timeGravityAcc_mean_Z**  
+**Average_timeGravityAcc_mean_X, Average_timeGravityAcc_mean_Y, Average_timeGravityAcc_mean_Z**  
 These variables provide the average mean gravitational acceleration in each of the X, Y, Z axes.  
 
 
-4. **Average_timeGravityAcc_std_X, Average_timeGravityAcc_std_Y, Average_timeGravityAcc_std_Z**  
+**Average_timeGravityAcc_std_X, Average_timeGravityAcc_std_Y, Average_timeGravityAcc_std_Z**  
 These variables provide the average standard deviation of the gravitational acceleration in each of the X, Y, Z axes.  
 
 
-5. **Average_timeBodyAccJerk_mean_X, Average_timeBodyAccJerk_mean_Y, Average_timeBodyAccJerk_mean_Z**  
+**Average_timeBodyAccJerk_mean_X, Average_timeBodyAccJerk_mean_Y, Average_timeBodyAccJerk_mean_Z**  
 These variables provide the average mean body jerk in each of the X, Y, Z axes.  
 
 
-6. **Average_timeBodyAccJerk_std_X, Average_timeBodyAccJerk_std_Y, Average_timeBodyAccJerk_std_Z**  
+**Average_timeBodyAccJerk_std_X, Average_timeBodyAccJerk_std_Y, Average_timeBodyAccJerk_std_Z**  
 These variables provide the average standard deviation of the body jerk in each of the X, Y, Z axes.  
 
 
-7. **Average_timeBodyGyro_mean_X, Average_timeBodyGyro_mean_Y, Average_timeBodyGyro_mean_Z**  
+**Average_timeBodyGyro_mean_X, Average_timeBodyGyro_mean_Y, Average_timeBodyGyro_mean_Z**  
 These variables provide the average gyro mean in each of the X, Y, Z axes.  
 
 
