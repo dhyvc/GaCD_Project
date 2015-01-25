@@ -138,14 +138,18 @@ This is the average frequency domain standard deviation of the body acceleration
 
 
 **Average_frequencyBodyGyroMag_mean**  
+This is the average frequency domain mean magnitude of the gyro measurement.
 
 
 **Average_frequencyBodyGyroMag_std**  
+This is the average frequency domain standard deviation of the magnitude of the gyro measurement.
 
 
 **Average_frequencyBodyGyroJerkMag_mean**  
+This is the average frequency domain mean magnitude of the gyro jerk measurement.
 
 
 **Average_frequencyBodyGyroJerkMag_std**  
+This is the average frequency domain standard deviation of the magnitude of the gyro jerk measurement.
 
 
