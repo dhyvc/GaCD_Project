@@ -17,7 +17,7 @@ The following paragraphs provide information regarding the variables used in the
 These variables provide the average mean body acceleration in each of the X, Y, Z axes.  
 
 
-2. **Average_timeBodyAcc_std_X, Average_timeBodyAcc_std_Y, Average_timeBodyAcc_std_Z**  
+**Average_timeBodyAcc_std_X, Average_timeBodyAcc_std_Y, Average_timeBodyAcc_std_Z**  
 These variables provide the average standard deviation of the body acceleration in each of the X, Y, Z axes.  
 
 
