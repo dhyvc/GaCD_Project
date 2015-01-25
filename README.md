@@ -10,11 +10,11 @@ The data for the project was downloaded from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ##Files included in this repository
-The repository contains four files:
-1. This README.md file
-2. run_analysis.R file. This is the script used to derive the final data set from the original data files.
-3. TidyDataSet.txt file. This is the final, tidy data set that was derived from the original data files.
-4. CodeBook.md file. This document describes the various variables, the data, and any transformations or work that were performed to clean up the data included in the provided data set.
+The repository contains four files:  
+1. This README.md file  
+2. run_analysis.R file. This is the script used to derive the final data set from the original data files.  
+3. TidyDataSet.txt file. This is the final, tidy data set that was derived from the original data files.  
+4. CodeBook.md file. This document describes the various variables, the data, and any transformations or work that were performed to clean up the data included in the provided data set.  
 
 ##Assumptions
 In order to use the abovementioned files, the user is expected to have:
